@@ -1,0 +1,9 @@
+
+a:visited{
+    color: rgb(219, 100, 30);
+}
+
+a:hover{
+    background-color: yellow;
+    color: brown;
+}
